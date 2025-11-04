@@ -1,1 +1,1 @@
-# demorepro
+# Конфликтная версия feature1
